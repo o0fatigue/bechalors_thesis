@@ -1,0 +1,103 @@
+PWD C:/Users/Rhett/Desktop/papper
+INPUT d:/Program Files/texlive/2016/texmf.cnf
+INPUT d:/Program Files/texlive/2016/texmf-var/web2c/eptex/platex.fmt
+INPUT paper.tex
+OUTPUT paper.log
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/base/article.cls
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/base/article.cls
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/base/size12.clo
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/base/size12.clo
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/float/float.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/float/float.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/base/textcomp.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/base/textcomp.sty
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/base/ts1enc.def
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/base/ts1enc.def
+INPUT paper.aux
+INPUT paper.aux
+OUTPUT paper.aux
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+OUTPUT paper.dvi
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT images/testcases_bfdl.PNG
+INPUT extractbb -O images/testcases_bfdl.PNG
+INPUT images/testcases_afdl.PNG
+INPUT extractbb -O images/testcases_afdl.PNG
+INPUT images/resources_relation.PNG
+INPUT extractbb -O images/resources_relation.PNG
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+INPUT d:/Program Files/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
+INPUT d:/Program Files/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
+INPUT extract_test.py
+INPUT extract_test.py
+INPUT extract_test.py
+INPUT extract_resource.py
+INPUT extract_resource.py
+INPUT extract_resource.py
+INPUT min_cost_nn.py
+INPUT min_cost_nn.py
+INPUT min_cost_nn.py
+INPUT min_cost_cl.py
+INPUT min_cost_cl.py
+INPUT min_cost_cl.py
+INPUT min_cost_nn_v2.py
+INPUT min_cost_nn_v2.py
+INPUT min_cost_nn_v2.py
+INPUT paper.aux
